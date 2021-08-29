@@ -6,6 +6,10 @@
 # )
 #
 # app = Flask(__name__)
+
+
+
+# test1
 #
 # app.config['JWT_SECRET_KEY'] = 'super-secret'  # Change this!
 # jwt = JWTManager(app)
