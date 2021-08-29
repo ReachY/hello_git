@@ -76,6 +76,9 @@ def mv_dicom(old_path, new_path):
     if os.path.exists(old_path):
         shutil.copy(old_path, new_path)
 
+def test1():
+    pass
+
 
 def mv_dicom_files():
     data, runtimes, lesions, shares = datebase()
