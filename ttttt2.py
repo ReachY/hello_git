@@ -1,5 +1,5 @@
 # this is tttt2
 
 
-def test2():
-	print "this is branch feature/002"
+def test():
+    print "this is branch feature"
