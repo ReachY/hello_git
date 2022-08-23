@@ -8,7 +8,8 @@ def test():
 # new branch branch1
 # this is really check1
 
-# 0823 git
+# add 002
+# 0826 git
 
 if __name__ == "__main__":
     test("__main__")
