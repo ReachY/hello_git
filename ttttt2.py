@@ -9,7 +9,7 @@ def test():
 # this is really check1
 
 # add 002
-# 0826 git
+# 0826
 
 if __name__ == "__main__":
     test("__main__")
